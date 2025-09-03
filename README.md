@@ -15,4 +15,3 @@ VisualStudio.com [https://code.visualstudio.com/docs/languages/cpp]
 W3Schools.com [https://www.w3schools.com/cpp/]
 
 ChatGPT (as a tutor)
-[EOF]
